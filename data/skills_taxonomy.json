@@ -1,0 +1,36 @@
+{
+  "languages": [
+    "python", "java", "javascript", "typescript", "c", "c++", "c#",
+    "r", "sql", "go", "rust", "kotlin", "swift", "php", "ruby", "scala"
+  ],
+  "ml_ai": [
+    "machine learning", "deep learning", "nlp", "natural language processing",
+    "computer vision", "reinforcement learning", "neural network",
+    "tensorflow", "pytorch", "keras", "scikit-learn", "sklearn",
+    "hugging face", "transformers", "bert", "gpt", "llm",
+    "xgboost", "lightgbm", "catboost", "random forest", "svm"
+  ],
+  "data": [
+    "pandas", "numpy", "matplotlib", "seaborn", "plotly",
+    "data analysis", "data visualization", "eda", "feature engineering",
+    "data cleaning", "etl", "data pipeline", "apache spark", "pyspark",
+    "hadoop", "kafka", "airflow", "dbt", "tableau", "power bi"
+  ],
+  "web_frameworks": [
+    "fastapi", "django", "flask", "react", "reactjs", "nextjs", "vuejs",
+    "angular", "node.js", "nodejs", "express", "spring boot", "fastapi"
+  ],
+  "databases": [
+    "mysql", "postgresql", "postgres", "mongodb", "redis", "sqlite",
+    "cassandra", "elasticsearch", "firebase", "dynamodb", "oracle"
+  ],
+  "cloud_devops": [
+    "aws", "azure", "gcp", "google cloud", "docker", "kubernetes",
+    "ci/cd", "jenkins", "github actions", "terraform", "linux",
+    "git", "github", "gitlab", "bitbucket", "nginx"
+  ],
+  "tools": [
+    "jupyter", "vs code", "pycharm", "postman", "jira", "confluence",
+    "slack", "figma", "notion", "excel", "google sheets"
+  ]
+}

@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pdfminer.six
+python-docx
+spacy
+scikit-learn
+pandas
+sqlalchemy
+psycopg2-binary
+python-dotenv
+httpx
+beautifulsoup4
